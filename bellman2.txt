@@ -1,0 +1,10 @@
+alfa	beta	0
+alfa	miu	2
+miu	zeta	4
+zeta	beta	-10
+gamma	beta	0
+zeta	gamma	10
+gamma	phi	4
+phi	theta	-5
+theta	alfa	0
+beta	theta	6

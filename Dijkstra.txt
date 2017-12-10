@@ -1,0 +1,10 @@
+r	p	5
+p	x	1
+p	q	5
+q	r	1
+x	y	10
+x	r	15
+y	z	50
+r	t	20
+t	z	10
+q	t	5

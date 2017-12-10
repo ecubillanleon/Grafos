@@ -1,0 +1,10 @@
+n0nb	n1nb
+n0nb	n2nb
+n0nb	n3nb
+n0nb	n0n
+n1n	n0n
+n1n	n3n
+n2n	n0n
+n2n	n4n
+n3n	n2n
+n4n	n5n

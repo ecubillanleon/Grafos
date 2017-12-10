@@ -1,0 +1,15 @@
+cab	pts
+jel	mbo
+jel	ros
+lag	cab
+lag	pts
+mar	jel
+mar	mbo
+mbo	urd
+mch	sur
+paz	mar
+pdl	mar
+pts	pdl
+ros	mch
+sur	lag
+urd	ros

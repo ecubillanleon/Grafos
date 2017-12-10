@@ -1,0 +1,8 @@
+m	n
+n	o
+m	p
+p	q
+q	o
+r	m
+r	n
+r	s

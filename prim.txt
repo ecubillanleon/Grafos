@@ -1,0 +1,15 @@
+m	f	10
+m	g	20
+m	h	30
+g	f	5
+g	h	5
+g	i	100
+g	j	100
+i	j	100
+e	p	5
+e	f	5
+e	q	5
+e	h	5
+e	m	40
+p	f	5
+q	h	5
